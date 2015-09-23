@@ -1,0 +1,1 @@
+include ':app', ':Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552'

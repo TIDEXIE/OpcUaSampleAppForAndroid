@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/libs/slf4j-log4j12-1.7.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06980f8095270d95fe735e598832838276fe068a">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/slf4j-log4j12-1.7.7-27c0b7f75c374305ad0dbea8431a495a50939e04.jar" />
+    </item>
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/libs/log4j-1.2.17.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f90475694c41965c9a0c8bac53ea5c690dea446">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/log4j-1.2.17-d4049d30d28b575e7aabd5454cd298aeb61b099a.jar" />
+    </item>
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/libs/Opc.Ua.Stack-1.02.337.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8877ee1e4cc6f6e1076dac7ee44d74b069b712d1">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/Opc.Ua.Stack-1.02.337.4-1156a2903d94a32dca37f034b1d1a9c055b2ff88.jar" />
+    </item>
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/libs/slf4j-api-1.7.7.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="949db5d6435aecdd6c2a61ce252edd2e9d582441">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/slf4j-api-1.7.7-d155cb20d22a10a874560eca72c2fa6ff01ccc1d.jar" />
+    </item>
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="93952d5a1a25b5bf577cc07ce35b08d0fdba0cea">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552-5c6e851c33c7f4edc2e09631dd8553c34a835d68.jar" />
+    </item>
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/libs/bcprov-jdk15on-152.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="88a941faf9819d371e3174b5ed56a3f3f7d73269">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/bcprov-jdk15on-152-ff83fea1691be1c0492c4067573f22c4ed23b294.jar" />
+    </item>
+    <item
+        jar="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/libs/commons-logging-1.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5043bfebc3db072ed80fbd362e7caf00e885d8ae">
+        <dex dex="/Users/haripriyasaranya/AndroidStudioProjects/OpcUaSampleAppForAndroid/app/build/intermediates/pre-dexed/debug/commons-logging-1.1.1-4ee4045c7a52f6d25ab05dc99784bb9d59adc0dd.jar" />
+    </item>
+
+</items>

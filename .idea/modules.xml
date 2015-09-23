@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OpcUaSampleAppForAndroid.iml" filepath="$PROJECT_DIR$/OpcUaSampleAppForAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552.iml" filepath="$PROJECT_DIR$/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552/Prosys-OPC-UA-Java-SDK-Client-Server-Evaluation-2.2.0-552.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
